@@ -1,0 +1,63 @@
+{
+    "name": "MokiMobility",
+    "description": "<p>MokiMobility makes device management simple. Easily deploy, manage, and maintain Android &amp; iOS devices with our powerful management software tools.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/mokimobility.png",
+    "tags": [
+        "api provider",
+        "have api",
+        "profile",
+        "spelling",
+        "tablets"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mokimobility\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MokiMobility",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/mokimobility.png",
+            "humanURL": "http:\/\/www.mokimobility.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mokimobility-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.mokimobility.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.mokimobility.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/MokimobilityBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/mokimobility"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mokimobility"
+        },
+        {
+            "type": "Email",
+            "url": "info@moki.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/mokimobility"
+        }
+    ]
+}
